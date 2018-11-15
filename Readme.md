@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomCriteriaToStringParser.cs](./CS/CriteriaVisitorExample/CustomCriteriaToStringParser.cs) (VB: [CustomCriteriaToStringParser.vb](./VB/CriteriaVisitorExample/CustomCriteriaToStringParser.vb))
+* [Form1.cs](./CS/CriteriaVisitorExample/Form1.cs) (VB: [Form1.vb](./VB/CriteriaVisitorExample/Form1.vb))
+* [Program.cs](./CS/CriteriaVisitorExample/Program.cs) (VB: [Program.vb](./VB/CriteriaVisitorExample/Program.vb))
+<!-- default file list end -->
 # How to create a custom converter to convert the CriteriaOperator to the System.String type
 
 
